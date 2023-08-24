@@ -16,3 +16,10 @@ body {
 .logo span {
     color:  #2E2F42;
 }
+
+.nav-item {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
