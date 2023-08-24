@@ -23,3 +23,15 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.nav-item:hover, .nav-item:focus {
+    color: #404bbf;
+}
+.contacts {
+    font-style: normal;
+
+}
+.contacts-item {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
