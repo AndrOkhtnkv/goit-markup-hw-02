@@ -44,7 +44,7 @@ body {
     background-color:#2e2f42;
 }
 
-.section_1_h1 {
+.section_one_h_one {
     font-size: 56px;
     line-height: 1.07;
     text-align: center; 
@@ -52,7 +52,7 @@ body {
     color: #ffffff;
 }
 
-.section_1_btn {
+.section_one_btn {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -63,6 +63,6 @@ body {
     cursor: pointer;
     
 }
-.section_1_btn:hover, .section_1_btn:focus {
+.section_one_btn:hover, .section_one_btn:focus {
     background-color: #404BBF;
 }
