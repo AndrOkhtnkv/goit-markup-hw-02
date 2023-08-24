@@ -35,3 +35,6 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.contacts-item:hover, .contacts-item:focus {
+    color: #404bbf;
+}
