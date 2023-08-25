@@ -91,3 +91,20 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
+
+.section_three_list-item {
+    background-color: #FFFFFF;
+}
+.section_three_list-item_header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+
+.section_three_list-item_paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
