@@ -137,3 +137,13 @@ body {
     background-color: #2e2f42;
     
 }
+
+.logo .logo-alt-color {
+    color: #f4f4fd;
+}
+
+.footer .footer-paragraph {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
