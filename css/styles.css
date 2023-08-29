@@ -53,7 +53,7 @@ body {
     background-color:#2e2f42;
 }
 
-.sctn_1_h1 {
+.sctn_one_h {
     font-size: 56px;
     line-height: 1.07;
     text-align: center; 
@@ -61,7 +61,7 @@ body {
     color: #ffffff;
 }
 
-.sctn_1_btn {
+.sctn_one_btn {
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -72,28 +72,28 @@ body {
     cursor: pointer;
     
 }
-.sctn_1_btn:hover, 
-.sctn_1_btn:focus {
+.sctn_one_btn:hover, 
+.sctn_one_btn:focus {
     background-color: #404BBF;
 }
 
-.sctn_2_h3 {
+.sctn_two_h {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.sctn_2_p {
+.sctn_two_p {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.sctn_3 {
+.sctn_three {
     background-color: #F4F4FD;
 }
 
-.sctn_3_h2 {
+.sctn_three_h {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -102,24 +102,24 @@ body {
     color: #2e2f42;
 }
 
-.sctn_3_li {
+.sctn_three_li {
     background-color: #FFFFFF;
 }
-.sctn_3_li_h3 {
+.sctn_three_li_h {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-
-.sctn_3_li_p {
+=
+.sctn_three_li_p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.sctn_4_h2 {
+.sctn_four_h {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -128,7 +128,7 @@ body {
     color:#2e2f42;
 }
 
-.sctn_4_li_h3 {
+.sctn_four_li_h {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -136,7 +136,7 @@ body {
     color:#2e2f42;
 }
 
-.sctn_4_li_p {
+.sctn_four_li_p{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
